@@ -1,7 +1,7 @@
 # xboard2xui
 xboard backend with xui
 
-### Xboard 对接xui教程。
+### xui 对接Xboard教程。
 
 #### 下面以Reality为例，其他的我没试，理论上也可以。
 
