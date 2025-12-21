@@ -121,6 +121,12 @@ shortID复制xui里面，复制第一个shortID到Xboard里面。这里是2e9f�
 
 然后，可以打开xui，展开你的xui 对应的 NodeID的详细客户端信息，可以看到多个`xboard_`开头的用户，这就是xboard创建的用户，说明对接成功了。
 
+![](https://github.com/oldfriendme/xboard2xui/blob/main/img/xuiend.jpg?raw=true)
+
+<br>
+
+---
+
 <br>
 
 另外，路由以及出站，以及禁止，在xui里面配置，xboard的配置不起作用，会被xui本身覆盖
